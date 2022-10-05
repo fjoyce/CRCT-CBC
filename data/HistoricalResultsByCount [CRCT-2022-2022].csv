@@ -1,0 +1,1623 @@
+﻿CircleName,Abbrev,LatLong
+"Coto Brus, Puntarenas, Costa Rica",CRCT,8.8458400000/-82.9438000000
+
+CountYear3,LowTemp,HighTemp,AMCloud,PMClouds,AMRain,PMRain,AMSnow,PMSnow
+122,17.0 Celsius,24.0 Celsius,Partly Cloudy,Partly Cloudy,None,None,,
+
+CountYear5,LowTemp3,HighTemp2,AMCloud2,PMClouds2
+122,12/18/2021,25,60.00,267
+
+CountYear4,LowTemp2
+122,"Finca Cántaros Environmental Organization, Las Tablas Biological Station (OTS), San Vito Bird Club, Turibrus R.L."
+
+COM_NAME,CountYear,how_manyCW,NumberByPartyHours,Flags
+"Great Tinamou
+[Tinamus major]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Little Tinamou
+[Crypturellus soui]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Blue-winged Teal
+[Anas discors]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",13,0.2167,
+"Blue-winged x Green-winged Teal (hybrid)
+[Anas discors x crecca]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Ring-necked Duck
+[Aythya collaris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Gray-headed Chachalaca
+[Ortalis cinereiceps]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",39,0.6500,
+"Crested Guan
+[Penelope purpurascens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",25,0.4167,
+"Marbled Wood-Quail
+[Odontophorus gujanensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Spotted Wood-Quail
+[Odontophorus guttatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Least Grebe
+[Tachybaptus dominicus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Neotropic Cormorant
+[Phalacrocorax brasilianus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Cattle Egret
+[Bubulcus ibis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",29,0.4833,
+"Green Heron
+[Butorides virescens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Boat-billed Heron
+[Cochlearius cochlearius]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"Green Ibis
+[Mesembrinibis cayennensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Black Vulture
+[Coragyps atratus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",64,1.0667,
+"Turkey Vulture
+[Cathartes aura]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",41,0.6833,
+"King Vulture
+[Sarcoramphus papa]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Black Hawk-Eagle
+[Spizaetus tyrannus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Ornate Hawk-Eagle
+[Spizaetus ornatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Double-toothed Kite
+[Harpagus bidentatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Roadside Hawk
+[Rupornis magnirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"White Hawk
+[Pseudastur albicollis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Broad-winged Hawk
+[Buteo platypterus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Swainson's Hawk
+[Buteo swainsoni]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Red-tailed Hawk
+[Buteo jamaicensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"White-throated Crake
+[Laterallus albigularis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Gray-necked Wood-Rail
+[Aramides cajaneus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Purple Gallinule
+[Porphyrio martinicus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Southern Lapwing
+[Vanellus chilensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Northern Jacana
+[Jacana spinosa]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Band-tailed Pigeon
+[Patagioenas fasciata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Ruddy Pigeon
+[Patagioenas subvinacea]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Short-billed Pigeon
+[Patagioenas nigrirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Ruddy Ground-Dove
+[Columbina talpacoti]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Ruddy Quail-Dove
+[Geotrygon montana]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"White-tipped Dove
+[Leptotila verreauxi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",14,0.2333,
+"Gray-chested Dove
+[Leptotila cassinii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Squirrel Cuckoo
+[Piaya cayana]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Smooth-billed Ani
+[Crotophaga ani]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Tropical Screech-Owl
+[Megascops choliba]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Mottled Owl
+[Ciccaba virgata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Black-and-white Owl
+[Ciccaba nigrolineata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Common Pauraque
+[Nyctidromus albicollis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",25,0.4167,
+"White-collared Swift
+[Streptoprocne zonaris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",52,0.8667,
+"Vaux's Swift
+[Chaetura vauxi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",16,0.2667,
+"Costa Rican Swift
+[Chaetura fumosa]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",13,0.2167,
+"White-necked Jacobin
+[Florisuga mellivora]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Green Hermit
+[Phaethornis guy]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",18,0.3000,
+"Stripe-throated Hermit
+[Phaethornis striigularis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Brown Violetear
+[Colibri delphinae]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Purple-crowned Fairy
+[Heliothryx barroti]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"White-crested Coquette
+[Lophornis adorabilis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Green-crowned Brilliant
+[Heliodoxa jacula]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Long-billed Starthroat
+[Heliomaster longirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"White-throated Mountain-gem
+[Lampornis castaneoventris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Ruby-throated Hummingbird
+[Archilochus colubris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Scintillant Hummingbird
+[Selasphorus scintilla]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Garden Emerald
+[Chlorostilbon assimilis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Scaly-breasted Hummingbird
+[Phaeochroa cuvierii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Violet Sabrewing
+[Campylopterus hemileucurus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Crowned Woodnymph
+[Thalurania colombica]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"White-tailed Emerald
+[Elvira chionura]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Charming Hummingbird
+[Amazilia decora]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Snowy-bellied Hummingbird
+[Amazilia edward]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",17,0.2833,
+"Rufous-tailed Hummingbird
+[Amazilia tzacatl]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",44,0.7333,
+"Resplendent Quetzal
+[Pharomachrus mocinno]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Slaty-tailed Trogon
+[Trogon massena]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Gartered Trogon
+[Trogon caligatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Collared Trogon
+[Trogon collaris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Blue-crowned Motmot (Lesson's)
+[Momotus coeruliceps [lessonii Group]]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"Ringed Kingfisher
+[Megaceryle torquata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"White-whiskered Puffbird
+[Malacoptila panamensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Rufous-tailed Jacamar
+[Galbula ruficauda]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Red-headed Barbet
+[Eubucco bourcierii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Emerald Toucanet
+[Aulacorhynchus prasinus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Fiery-billed Aracari
+[Pteroglossus frantzii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",24,0.4000,
+"Yellow-throated Toucan (Chestnut-mandibled)
+[Ramphastos ambiguus swainsonii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",34,0.5667,
+"Olivaceous Piculet
+[Picumnus olivaceus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Red-crowned Woodpecker
+[Melanerpes rubricapillus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"Smoky-brown Woodpecker
+[Picoides fumigatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Golden-olive Woodpecker
+[Colaptes rubiginosus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Lineated Woodpecker
+[Dryocopus lineatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Pale-billed Woodpecker
+[Campephilus guatemalensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Barred Forest-Falcon
+[Micrastur ruficollis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Collared Forest-Falcon
+[Micrastur semitorquatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Crested Caracara
+[Caracara cheriway]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Yellow-headed Caracara
+[Milvago chimachima]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"Laughing Falcon
+[Herpetotheres cachinnans]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Merlin
+[Falco columbarius]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Bat Falcon
+[Falco rufigularis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Barred Parakeet
+[Bolborhynchus lineola]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",450,7.5000,
+"Orange-chinned Parakeet
+[Brotogeris jugularis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",35,0.5833,
+"Brown-hooded Parrot
+[Pyrilia haematotis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",21,0.3500,
+"Blue-headed Parrot
+[Pionus menstruus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",48,0.8000,
+"White-crowned Parrot
+[Pionus senilis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",54,0.9000,
+"Sulphur-winged Parakeet
+[Pyrrhura hoffmanni]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Crimson-fronted Parakeet
+[Psittacara finschi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",123,2.0500,
+"Barred Antshrike
+[Thamnophilus doliatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Black-hooded Antshrike
+[Thamnophilus bridgesi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Plain Antvireo
+[Dysithamnus mentalis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Slaty Antwren
+[Myrmotherula schisticolor]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Dusky Antbird
+[Cercomacroides tyrannina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Chestnut-backed Antbird
+[Myrmeciza exsul]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Bicolored Antbird
+[Gymnopithys bicolor]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Silvery-fronted Tapaculo
+[Scytalopus argentifrons]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Black-faced Antthrush
+[Formicarius analis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Olivaceous Woodcreeper
+[Sittasomus griseicapillus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Ruddy Woodcreeper
+[Dendrocincla homochroa]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Tawny-winged Woodcreeper
+[Dendrocincla anabatina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Wedge-billed Woodcreeper
+[Glyphorynchus spirurus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Cocoa Woodcreeper
+[Xiphorhynchus susurrans]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Spotted Woodcreeper
+[Xiphorhynchus erythropygius]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Brown-billed Scythebill
+[Campylorhamphus pusillus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Streak-headed Woodcreeper
+[Lepidocolaptes souleyetii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",16,0.2667,
+"Plain Xenops
+[Xenops minutus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Scaly-throated Foliage-gleaner
+[Anabacerthia variegaticeps]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Lineated Foliage-gleaner
+[Syndactyla subalaris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Ruddy Foliage-gleaner
+[Clibanornis rubiginosus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Buff-throated Foliage-gleaner
+[Automolus ochrolaemus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Striped Woodhaunter
+[Automolus subulatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Spotted Barbtail
+[Premnoplex brunnescens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Red-faced Spinetail
+[Cranioleuca erythrops]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Pale-breasted Spinetail
+[Synallaxis albescens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Slaty Spinetail
+[Synallaxis brachyura]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Mouse-colored Tyrannulet
+[Phaeomyias murina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Yellow Tyrannulet
+[Capsiempis flaveola]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Greenish Elaenia
+[Myiopagis viridicata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Yellow-bellied Elaenia
+[Elaenia flavogaster]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Lesser Elaenia
+[Elaenia chiriquensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Mountain Elaenia
+[Elaenia frantzii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Ochre-bellied Flycatcher
+[Mionectes oleagineus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Slaty-capped Flycatcher
+[Leptopogon superciliaris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Scale-crested Pygmy-Tyrant
+[Lophotriccus pileatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",13,0.2167,
+"Northern Bentbill
+[Oncostoma cinereigulare]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Slate-headed Tody-Flycatcher
+[Poecilotriccus sylvia]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Common Tody-Flycatcher
+[Todirostrum cinereum]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",30,0.5000,
+"Eye-ringed Flatbill
+[Rhynchocyclus brevirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Yellow-olive Flycatcher
+[Tolmomyias sulphurescens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",16,0.2667,
+"White-throated Spadebill
+[Platyrinchus mystaceus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Golden-crowned Spadebill
+[Platyrinchus coronatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Sulphur-rumped Flycatcher
+[Myiobius sulphureipygius]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Bran-colored Flycatcher
+[Myiophobus fasciatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Western Wood-Pewee
+[Contopus sordidulus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Eastern Wood-Pewee
+[Contopus virens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Yellow-bellied Flycatcher
+[Empidonax flaviventris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",24,0.4000,
+"Bright-rumped Attila
+[Attila spadiceus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Dusky-capped Flycatcher
+[Myiarchus tuberculifer]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Great Kiskadee
+[Pitangus sulphuratus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",15,0.2500,
+"Boat-billed Flycatcher
+[Megarynchus pitangua]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",14,0.2333,
+"Social Flycatcher
+[Myiozetetes similis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Golden-bellied Flycatcher
+[Myiodynastes hemichrysus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Tropical Kingbird
+[Tyrannus melancholicus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",39,0.6500,
+"Fork-tailed Flycatcher
+[Tyrannus savana]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Turquoise Cotinga
+[Cotinga ridgwayi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Rufous Piha
+[Lipaugus unirufus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Lance-tailed Manakin
+[Chiroxiphia lanceolata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"White-ruffed Manakin
+[Corapipo altera]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Blue-crowned Manakin
+[Lepidothrix coronata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",14,0.2333,
+"Orange-collared Manakin
+[Manacus aurantiacus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",18,0.3000,
+"Black-crowned Tityra
+[Tityra inquisitor]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Masked Tityra
+[Tityra semifasciata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Northern Schiffornis
+[Schiffornis veraepacis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Barred Becard
+[Pachyramphus versicolor]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"White-winged Becard
+[Pachyramphus polychopterus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Rose-throated Becard
+[Pachyramphus aglaiae]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Yellow-throated Vireo
+[Vireo flavifrons]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Brown-capped Vireo
+[Vireo leucophrys]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Philadelphia Vireo
+[Vireo philadelphicus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Yellow-green Vireo
+[Vireo flavoviridis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Tawny-crowned Greenlet
+[Tunchiornis ochraceiceps]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Lesser Greenlet
+[Pachysylvia decurtata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",27,0.4500,
+"Green Shrike-Vireo
+[Vireolanius pulchellus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Rufous-browed Peppershrike
+[Cyclarhis gujanensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Brown Jay
+[Psilorhinus morio]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",17,0.2833,
+"Blue-and-white Swallow
+[Pygochelidon cyanoleuca]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",46,0.7667,
+"Northern Rough-winged Swallow
+[Stelgidopteryx serripennis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Southern Rough-winged Swallow
+[Stelgidopteryx ruficollis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",16,0.2667,
+"Gray-breasted Martin
+[Progne chalybea]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Scaly-breasted Wren
+[Microcerculus marginatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"House Wren
+[Troglodytes aedon]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",21,0.3500,
+"Ochraceous Wren
+[Troglodytes ochraceus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Black-bellied Wren
+[Pheugopedius fasciatoventris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Rufous-breasted Wren
+[Pheugopedius rutilus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",18,0.3000,
+"Plain Wren
+[Cantorchilus modestus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",13,0.2167,
+"Riverside Wren
+[Cantorchilus semibadius]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"White-breasted Wood-Wren
+[Henicorhina leucosticta]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",21,0.3500,
+"Gray-breasted Wood-Wren
+[Henicorhina leucophrys]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Long-billed Gnatwren
+[Ramphocaenus melanurus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Tropical Gnatcatcher
+[Polioptila plumbea]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Black-faced Solitaire
+[Myadestes melanops]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Orange-billed Nightingale-Thrush
+[Catharus aurantiirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",18,0.3000,
+"Swainson's Thrush
+[Catharus ustulatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Mountain Thrush
+[Turdus plebejus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Clay-colored Thrush
+[Turdus grayi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",47,0.7833,
+"White-throated Thrush
+[Turdus assimilis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",16,0.2667,
+"Tropical Mockingbird
+[Mimus gilvus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Ovenbird
+[Seiurus aurocapilla]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Northern Waterthrush
+[Parkesia noveboracensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Golden-winged Warbler
+[Vermivora chrysoptera]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Black-and-white Warbler
+[Mniotilta varia]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",19,0.3167,
+"Tennessee Warbler
+[Oreothlypis peregrina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",26,0.4333,
+"Gray-crowned Yellowthroat
+[Geothlypis poliocephala]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Masked Yellowthroat
+[Geothlypis aequinoctialis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Mourning Warbler
+[Geothlypis philadelphia]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Kentucky Warbler
+[Geothlypis formosa]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"American Redstart
+[Setophaga ruticilla]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Tropical Parula
+[Setophaga pitiayumi]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Blackburnian Warbler
+[Setophaga fusca]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",24,0.4000,
+"Yellow Warbler
+[Setophaga petechia]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",21,0.3500,
+"Chestnut-sided Warbler
+[Setophaga pensylvanica]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",58,0.9667,
+"Black-throated Green Warbler
+[Setophaga virens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Rufous-capped Warbler
+[Basileuterus rufifrons]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Golden-crowned Warbler
+[Basileuterus culicivorus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Buff-rumped Warbler
+[Myiothlypis fulvicauda]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Canada Warbler
+[Cardellina canadensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Wilson's Warbler
+[Cardellina pusilla]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Slate-throated Redstart
+[Myioborus miniatus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Yellow-breasted Chat
+[Icteria virens]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",1,0.0167,
+"Gray-headed Tanager
+[Eucometis penicillata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"White-lined Tanager
+[Tachyphonus rufus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Passerini's Tanager
+[Ramphocelus passerinii]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",43,0.7167,
+"Blue-gray Tanager
+[Thraupis episcopus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",32,0.5333,
+"Palm Tanager
+[Thraupis palmarum]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Golden-hooded Tanager
+[Tangara larvata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",35,0.5833,
+"Speckled Tanager
+[Tangara guttata]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",22,0.3667,
+"Bay-headed Tanager
+[Tangara gyrola]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",22,0.3667,
+"Silver-throated Tanager
+[Tangara icterocephala]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",29,0.4833,
+"Scarlet-thighed Dacnis
+[Dacnis venusta]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Red-legged Honeycreeper
+[Cyanerpes cyaneus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Green Honeycreeper
+[Chlorophanes spiza]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Blue-black Grassquit
+[Volatinia jacarina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",8,0.1333,
+"Variable Seedeater
+[Sporophila corvina]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",17,0.2833,
+"White-collared Seedeater
+[Sporophila torqueola]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Yellow-bellied Seedeater
+[Sporophila nigricollis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Bananaquit
+[Coereba flaveola]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",30,0.5000,
+"Yellow-faced Grassquit
+[Tiaris olivaceus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",29,0.4833,
+"Rosy Thrush-Tanager
+[Rhodinocichla rosea]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",3,0.0500,
+"Buff-throated Saltator
+[Saltator maximus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",27,0.4500,
+"Streaked Saltator
+[Saltator striatipectus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"Common Chlorospingus
+[Chlorospingus flavopectus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Black-striped Sparrow
+[Arremonops conirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",12,0.2000,
+"Costa Rican Brushfinch
+[Arremon costaricensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Orange-billed Sparrow
+[Arremon aurantiirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",25,0.4167,
+"Chestnut-capped Brushfinch
+[Arremon brunneinucha]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Rufous-collared Sparrow
+[Zonotrichia capensis]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",10,0.1667,
+"White-naped Brushfinch
+[Atlapetes albinucha]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Summer Tanager
+[Piranga rubra]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",25,0.4167,
+"White-winged Tanager
+[Piranga leucoptera]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Red-crowned Ant-Tanager
+[Habia rubica]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",23,0.3833,
+"Rose-breasted Grosbeak
+[Pheucticus ludovicianus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Blue-black Grosbeak
+[Cyanocompsa cyanoides]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",5,0.0833,
+"Dickcissel
+[Spiza americana]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",4,0.0667,
+"Melodious Blackbird
+[Dives dives]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",6,0.1000,
+"Great-tailed Grackle
+[Quiscalus mexicanus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",58,0.9667,
+"Bronzed Cowbird
+[Molothrus aeneus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",7,0.1167,
+"Baltimore Oriole
+[Icterus galbula]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",13,0.2167,
+"Yellow-billed Cacique
+[Amblycercus holosericeus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",9,0.1500,
+"Crested Oropendola
+[Psarocolius decumanus]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",26,0.4333,
+"Yellow-crowned Euphonia
+[Euphonia luteicapilla]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Thick-billed Euphonia
+[Euphonia laniirostris]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",11,0.1833,
+"Yellow-throated Euphonia
+[Euphonia hirundinacea]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",2,0.0333,
+"Spot-crowned Euphonia
+[Euphonia imitans]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",18,0.3000,
+"Lesser Goldfinch
+[Spinus psaltria]","2021 [122]
+Count Date: 12/18/2021
+# Participants: 20
+# Species Reported: 267
+Total Hrs.: 60.00",19,0.3167,
+
+CountYear1,FirstName,LastName,Email,IsPrimary
+122,David,Rodriguez,david.rodriguez@fincacantaros.org,Yes
+
+CountYear2,FirstName2,LastName2
+122,Yadira ,Barrantes Villalobos
+122,Lilly,Briggs
+122,Antony ,Cascante Alvarado 
+122,Claudia ,Castro Sandí 
+122,Karen Iveth,Delgado Salazar 
+122,Jeisson,Figueroa
+122,Hellen ,Hidalgo Quirós
+122,Randall,Jimenez
+122,Wagner,López
+122,Paula,Mesén Cabezas
+122,Yolanda ,Morales Chinchilla
+122,Ivonne ,Murillo Mendoza
+122,Kassandra ,Navarro Salas
+122,Luis Andres ,Paniagua Montoya
+122,Johanny,Pérez Alvarado
+122,Emilce,Ramirez
+122,David,Rodriguez
+122,Hafet ,Rosales Umaña
+122,José David,Ulate Sánchez 
+122,Peter,Wendell
+
