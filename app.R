@@ -20,16 +20,16 @@ min_max <- function(vector){
 }
 
 # read in cleaned CRMO CBC data
-CRMO <- read_csv("CRMO-CBC-2020-cleaned.csv")
+CRCT <- read_csv("CRCT-2021-cleaned.csv")
 
 ## redo with CRMO species
-species_list <- CRMO %>%
+species_list <- CRCT %>%
     distinct(species_latin) %>%
     rename(Especies = species_latin) #%>%
     #arrange(Especies) don't sort alphabetically
 
 ##redo with CRMO data
-years_list <- CRMO %>%
+years_list <- CRCT %>%
     distinct(year) %>%
     rename(Year = year) %>%
     arrange(-Year)
@@ -37,7 +37,7 @@ years_list <- CRMO %>%
 year_min_max <- min_max(years_list)
 
 
-ui <- navbarPage("Conteo Navideño de Aves Monteverde 1994-2020",
+ui <- navbarPage("Conteo Navideño de Aves Coto Brus 2021",
                  
                  tabPanel(
                      
@@ -60,7 +60,7 @@ ui <- navbarPage("Conteo Navideño de Aves Monteverde 1994-2020",
                              # Input: which species ----
                              selectizeInput("species_picked",
                                             multiple = TRUE,
-                                            selected = c("Dives dives", "Pharomachrus mocinno", "Falco rufigularis", "Streptoprocne zonaris", "Crax rubra", "Spizaetus ornatus"),
+                                            selected = c("Dives dives"),
                                             label = "Puede seleccionar los nombres científicos de la lista o escribirlos (máximo 6):",
                                             choices = species_list,
                                             options = list(maxItems = 6)),
@@ -116,7 +116,7 @@ ui <- navbarPage("Conteo Navideño de Aves Monteverde 1994-2020",
                              
                              # Input: which year ----
                              selectInput("individual_year_picked",
-                                         label = "¿Para cuál año quisiera visualizar los resultados del Conteo Navideño de Aves Monteverde?",
+                                         label = "¿Para cuál año quisiera visualizar los resultados del Conteo Navideño de Aves Coto Brus?",
                                          choices = years_list),
                              
                              
@@ -159,7 +159,7 @@ server <- function(input, output) {
     data_input <- reactive({
         
         #update with CRMO variables
-        CRMO %>% 
+        CRCT %>% 
             filter(year >= req(input$years_picked[1]),
                    year <= req(input$years_picked[2]),
                    species_latin %in% req(input$species_picked))
@@ -205,7 +205,7 @@ server <- function(input, output) {
     output$count_table <- renderTable({
         
         ##update with CRMO
-        CRMO %>%
+        CRCT %>%
             filter(year == input$individual_year_picked) %>%
             count(species_latin, how_many_counted) %>%
             select(-n) %>%
@@ -221,15 +221,15 @@ server <- function(input, output) {
     output$mapa <- renderLeaflet({
         leaflet() %>% 
             addProviderTiles("Esri.WorldImagery") %>% 
-            addCircles(lng = -84.77,
-                       lat = 10.30,
+            addCircles(lat = 8.84584,
+                       lng = -82.9438,
                        weight = 4,
                        radius = 12070,
                        color = "green",
                        popup = "circulo de conteo",
                        fillOpacity = 0) %>% 
-            setView(lat = 10.30,
-                    lng = -84.77,
+            setView(lat = 8.84584,
+                    lng = -82.9438,
                     zoom = 11)
     }),
     
